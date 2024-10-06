@@ -98,8 +98,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs",
               "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Program.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs*",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Program.cs*",
+              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T09:18:05.82Z",
@@ -140,7 +140,8 @@
               "RelativeToolTip": "YatApp.Api\\Controllers\\PatientController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwDsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:25:01.228Z"
+              "WhenOpened": "2024-10-06T08:25:01.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
