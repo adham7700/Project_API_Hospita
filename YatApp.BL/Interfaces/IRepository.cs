@@ -22,6 +22,9 @@ public interface IRepository<T> where T : class
     Task<IEnumerable<T>> FindAllAsync(Expression<Func<T, bool>> criteria, int? skip, int? take,
         Expression<Func<T, object>> orderBy = null, bool IsDesc = false);
 
+    //IEnumerable<T> Find(Expression<Func<T, bool>> predicate);
+
+
     IEnumerable<T> FindWithFilters(
     Expression<Func<T, bool>> criteria = null,
     string sortColumn = null,

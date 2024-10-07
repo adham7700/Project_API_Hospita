@@ -42,11 +42,6 @@ namespace ClinicManagement.API.Controllers
                 Phone = dto.Phone,
                 Password = dto.Password,
 
-                
-
-
-
-
 
             };
             var res = await _unitofWork.Doctors.AddAsync(Doctor);

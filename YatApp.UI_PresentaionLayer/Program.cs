@@ -12,6 +12,7 @@ namespace YatApp.UI_PresentaionLayer
             var builder = WebApplication.CreateBuilder(args);
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            
             builder.Services.AddTransient<IApiCall,ApiCall>();
 
             // builder.Services.AddTransient<IApiCall, ApiCallRestSharp>();
@@ -34,7 +35,7 @@ namespace YatApp.UI_PresentaionLayer
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Patient}/{action=SignUP}/{id?}");
+                pattern: "{controller=Doctor}/{action=Index}/{id?}");
 
             app.Run();
         }

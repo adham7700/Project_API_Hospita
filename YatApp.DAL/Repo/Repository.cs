@@ -38,6 +38,10 @@ public class Repository<T> : IRepository<T> where T : class
 
         return query.SingleOrDefault(criteria);
     }
+    //public IEnumerable<T> Find(Expression<Func<T, bool>> predicate)
+    //{
+    //    return _context.Where(predicate).ToList(); // This allows filtering based on conditions
+    //}
 
     public async Task<T> FindAsync(Expression<Func<T, bool>> criteria, string[] includes = null)
     {

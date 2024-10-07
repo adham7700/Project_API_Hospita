@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj": {}
+    "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj": {}
   },
   "projects": {
-    "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj": {
+    "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj",
+        "projectUniqueName": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj",
         "projectName": "ClinicManagement.API",
-        "projectPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj",
+        "projectPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\ClinicManagement.API.csproj",
         "packagesPath": "C:\\Users\\madha\\.nuget\\packages\\",
-        "outputPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\obj\\",
+        "outputPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj": {
-                "projectPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj"
+              "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj": {
+                "projectPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj": {
+    "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj",
+        "projectUniqueName": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj",
         "projectName": "ClinicManagement.BL",
-        "projectPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj",
+        "projectPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj",
         "packagesPath": "C:\\Users\\madha\\.nuget\\packages\\",
-        "outputPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\obj\\",
+        "outputPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,14 +145,14 @@
         }
       }
     },
-    "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj": {
+    "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj",
         "projectName": "ClinicManagement.DAL",
-        "projectPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj",
+        "projectPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\ClinicManagement.DAL.csproj",
         "packagesPath": "C:\\Users\\madha\\.nuget\\packages\\",
-        "outputPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.DAL\\obj\\",
+        "outputPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\madha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj": {
-                "projectPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj"
+              "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj": {
+                "projectPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\ClinicManagement.BL.csproj"
               }
             }
           }

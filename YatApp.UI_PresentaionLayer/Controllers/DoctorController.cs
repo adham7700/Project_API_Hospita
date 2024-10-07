@@ -13,8 +13,7 @@ namespace ClinicManagement.UI_PresentaionLayer.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var doc =await _api.GetAllAsync<List<Doctor>>("Doctors/GetAllAsy");
-            var t=doc.Count();
+            var doc =await _api.GetAllAsync<Doctor>("Doctors/GetAllAsy");
             return View(doc);
         }
     }

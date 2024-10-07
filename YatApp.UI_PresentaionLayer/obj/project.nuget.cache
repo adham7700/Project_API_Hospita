@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+9H1fkb2nU=",
+  "dgSpecHash": "2JO8aCN4WWs=",
   "success": true,
-  "projectFilePath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj",
+  "projectFilePath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\madha\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\madha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

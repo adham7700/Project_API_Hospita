@@ -30,6 +30,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/.net_yat/Project/Clinic Management/27_9/27_9/Project_API_Hospita/YatApp.UI_PresentaionLayer/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/.net_yat/Project/Clinic Management/27_9/27_9/Project_API_Hospita/YatApp.UI_PresentaionLayer/Views/Patient/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -21,6 +21,7 @@ namespace YatApp.UI_PresentaionLayer.ApiConsume
             response.EnsureSuccessStatusCode();
             return await response.Content.ReadAsAsync<IEnumerable<T>>();
         }
+
         public async Task<T> GetByIdAsync<T>(string url, int? id =null)
         {
             HttpResponseMessage response=null;

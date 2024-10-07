@@ -1,53 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\",
+  "WorkspaceRootPath": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|solutionrelative:yatapp.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.bl\\dto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|solutionrelative:yatapp.bl\\dto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|solutionrelative:yatapp.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\apiconsume\\apicall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\apiconsume\\apicall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\views\\patient\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\views\\patient\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\views\\patient\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|solutionrelative:yatapp.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E8BCC0-3154-4476-8358-FA25FF3B720C}|YatApp.DAL\\ClinicManagement.DAL.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.dal\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E8BCC0-3154-4476-8358-FA25FF3B720C}|YatApp.DAL\\ClinicManagement.DAL.csproj|solutionrelative:yatapp.dal\\repo\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\apiconsume\\apicall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\apiconsume\\apicall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.bl\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|solutionrelative:yatapp.bl\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|solutionrelative:yatapp.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.bl\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|solutionrelative:yatapp.bl\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.bl\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|solutionrelative:yatapp.bl\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.bl\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF80CC2C-782B-4DB8-8E5C-2770BFEA4244}|YatApp.BL\\ClinicManagement.BL.csproj|solutionrelative:yatapp.bl\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|solutionrelative:yatapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6C550DEF-B393-474F-B878-611238C3E22D}|YatApp.Api\\ClinicManagement.API.csproj|solutionrelative:yatapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|e:\\.net_yat\\project\\clinic management\\clinic\\project_api_hospita\\yatapp.ui_presentaionlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|c:\\users\\madha\\downloads\\project_api_hospita\\project_api_hospita\\yatapp.ui_presentaionlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F82401D7-1768-484E-A67E-14263EB582CB}|YatApp.UI_PresentaionLayer\\ClinicManagement.UI_PresentaionLayer.csproj|solutionrelative:yatapp.ui_presentaionlayer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,134 +86,190 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "YatApp.Api\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "YatApp.Api\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T10:13:27.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiCall.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
-              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwBUAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:25:01.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs",
-              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Program.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T09:18:05.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorDto.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\Dto\\DoctorDto.cs",
-              "RelativeDocumentMoniker": "YatApp.BL\\Dto\\DoctorDto.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.BL\\Dto\\DoctorDto.cs",
-              "RelativeToolTip": "YatApp.BL\\Dto\\DoctorDto.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAzwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:11:11.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DoctorsController.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\Controllers\\DoctorsController.cs",
-              "RelativeDocumentMoniker": "YatApp.Api\\Controllers\\DoctorsController.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\Controllers\\DoctorsController.cs",
-              "RelativeToolTip": "YatApp.Api\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T12:58:16.612Z",
+              "WhenOpened": "2024-10-06T21:34:19.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "YatApp.Api\\Controllers\\PatientController.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "YatApp.Api\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDsAAAARAAAAAAAAAA==",
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "YatApp.Api\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "YatApp.Api\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:25:01.228Z",
+              "WhenOpened": "2024-10-07T07:03:21.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:13:27.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:05:28.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T10:08:51.642Z"
+              "WhenOpened": "2024-10-06T13:39:14.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\Repo\\Repository.cs",
+              "RelativeDocumentMoniker": "YatApp.DAL\\Repo\\Repository.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.DAL\\Repo\\Repository.cs",
+              "RelativeToolTip": "YatApp.DAL\\Repo\\Repository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:21:28.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Views\\Patient\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T10:08:51.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiCall.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
+              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\ApiConsume\\ApiCall.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:21:02.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "YatApp.BL\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Models\\Doctor.cs",
+              "RelativeToolTip": "YatApp.BL\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T09:05:28.719Z"
+              "WhenOpened": "2024-10-06T22:26:51.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs",
+              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Program.cs",
+              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:03:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "YatApp.BL\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Models\\Appointment.cs",
+              "RelativeToolTip": "YatApp.BL\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:29:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Dto\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "YatApp.BL\\Dto\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Dto\\AppointmentDto.cs",
+              "RelativeToolTip": "YatApp.BL\\Dto\\AppointmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:30:17.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "YatApp.BL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.BL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "YatApp.BL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAzczMzMwXwBMAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:24:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\Program.cs",
               "RelativeDocumentMoniker": "YatApp.Api\\Program.cs",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\Program.cs",
               "RelativeToolTip": "YatApp.Api\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T14:31:35.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Doctors\\Index.cshtml",
-              "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Views\\Doctors\\Index.cshtml",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\Doctors\\Index.cshtml",
-              "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Views\\Doctors\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T13:39:14.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\appsettings.json",
               "RelativeDocumentMoniker": "YatApp.Api\\appsettings.json",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.Api\\appsettings.json",
               "RelativeToolTip": "YatApp.Api\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -205,11 +277,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "YatApp.UI_PresentaionLayer\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\.net_yat\\Project\\Clinic Management\\Clinic\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\madha\\Downloads\\Project_API_Hospita\\Project_API_Hospita\\YatApp.UI_PresentaionLayer\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "YatApp.UI_PresentaionLayer\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
